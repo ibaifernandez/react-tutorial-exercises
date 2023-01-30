@@ -1,0 +1,17 @@
+{
+    "language": "react",
+    "slug": "react-tutorial-exercises",
+    "title": "Learn React.js Interactively",
+    "repository": "https://github.com/4GeeksAcademy/react-tutorial-exercises",
+    "preview": "https://github.com/4GeeksAcademy/react-tutorial-exercises/blob/master/preview.png?raw=true",
+    "description": "Learn and practice React.js using hooks, interactive tutorial with dozens of react exercises, get instant feedback with automatic grading and watch video solutions afterwards.",
+    "duration": 8,
+    "projectType": "tutorial",
+    "difficulty": "easy",
+    "videoSolutions": true,
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+    "grading": "isolated",
+    "editor": {
+        "version": "1.0.73"
+    }
+}
